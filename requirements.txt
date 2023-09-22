@@ -1,7 +1,7 @@
-boto3==1.21.32
-botocore==1.24.46
-Flask==2.3.2
-Flask_Cors==4.0.0
-langchain==0.0.298
-python-dotenv==1.0.0
-Werkzeug==2.3.6
+boto3==*
+botocore==*
+Flask==*
+Flask_Cors==*
+langchain==*
+python-dotenv==*
+Werkzeug==*
